@@ -1,0 +1,8172 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "",
+  "type": "object",
+  "properties": {
+    "ElementaryTypeName": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ElementaryTypeNameExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "ElementaryTypeNameExpression",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "Assignment": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "BinaryOperation": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "Conditional": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "ElementaryTypeNameExpression": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "FunctionCall": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "FunctionCallOptions": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "Identifier": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ImportDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ImportDirective",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "IndexAccess": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "Literal": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "MemberAccess": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "NewExpression": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "ArrayTypeName": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "FunctionTypeName": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "ParameterList": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "VariableDeclaration": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "StructuredDocumentation": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "OverrideSpecifier": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "UserDefinedTypeName": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "OverrideSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "OverrideSpecifier",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "IdentifierPath": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UserDefinedTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "OverrideSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "UserDefinedTypeName",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "OverrideSpecifier",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "Mapping": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "TupleExpression": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "UnaryOperation": {
+      "type": "object",
+      "properties": {
+        "Assignment": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "BinaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Conditional": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IndexAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCall": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionCallOptions": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "MemberAccess": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "NewExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TupleExpression": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UnaryOperation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EmitStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ExpressionStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclarationStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "InheritanceSpecifier": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierInvocation": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "EventDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ParameterList": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ArrayTypeName": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Mapping": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Return": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "StructDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UsingForDirective": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "VariableDeclaration": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "Assignment",
+        "BinaryOperation",
+        "Conditional",
+        "IndexAccess",
+        "FunctionCall",
+        "FunctionCallOptions",
+        "MemberAccess",
+        "NewExpression",
+        "TupleExpression",
+        "UnaryOperation",
+        "FunctionTypeName",
+        "ForStatement",
+        "IfStatement",
+        "EmitStatement",
+        "ExpressionStatement",
+        "VariableDeclarationStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "InheritanceSpecifier",
+        "ModifierInvocation",
+        "Block",
+        "UncheckedBlock",
+        "EventDefinition",
+        "FunctionDefinition",
+        "ParameterList",
+        "ArrayTypeName",
+        "Mapping",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "Return",
+        "StructDefinition",
+        "UsingForDirective",
+        "VariableDeclaration",
+        "SourceUnit"
+      ]
+    },
+    "ForStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "Block": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "EmitStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "ExpressionStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "VariableDeclarationStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "IfStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "WhileStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "TryStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "TryCatchClause": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "InlineAssembly": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "PlaceholderStatement": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "Return": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "UncheckedBlock": {
+      "type": "object",
+      "properties": {
+        "ForStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "IfStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "WhileStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryStatement": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "TryCatchClause": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "Block": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "UncheckedBlock": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ModifierDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": [
+        "ForStatement",
+        "IfStatement",
+        "WhileStatement",
+        "TryStatement",
+        "TryCatchClause",
+        "Block",
+        "UncheckedBlock",
+        "FunctionDefinition",
+        "ModifierDefinition",
+        "ContractDefinition",
+        "SourceUnit"
+      ]
+    },
+    "InheritanceSpecifier": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "ModifierInvocation": {
+      "type": "object",
+      "properties": {
+        "FunctionDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["FunctionDefinition", "ContractDefinition", "SourceUnit"]
+    },
+    "EnumValue": {
+      "type": "object",
+      "properties": {
+        "EnumDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["EnumDefinition", "ContractDefinition", "SourceUnit"]
+    },
+    "EnumDefinition": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "EventDefinition": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "FunctionDefinition": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "ModifierDefinition": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "ImportDirective": {
+      "type": "object",
+      "properties": {
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["SourceUnit"]
+    },
+    "PragmaDirective": {
+      "type": "object",
+      "properties": {
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["SourceUnit"]
+    },
+    "ContractDefinition": {
+      "type": "object",
+      "properties": {
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["SourceUnit"]
+    },
+    "StructDefinition": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "UsingForDirective": {
+      "type": "object",
+      "properties": {
+        "ContractDefinition": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        },
+        "SourceUnit": {
+          "type": "array",
+          "items": {
+            "required": [],
+            "properties": {}
+          }
+        }
+      },
+      "required": ["ContractDefinition", "SourceUnit"]
+    },
+    "SourceUnit": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  },
+  "required": [
+    "ElementaryTypeName",
+    "Assignment",
+    "BinaryOperation",
+    "Conditional",
+    "ElementaryTypeNameExpression",
+    "FunctionCall",
+    "FunctionCallOptions",
+    "Identifier",
+    "IndexAccess",
+    "Literal",
+    "MemberAccess",
+    "NewExpression",
+    "ArrayTypeName",
+    "FunctionTypeName",
+    "ParameterList",
+    "VariableDeclaration",
+    "StructuredDocumentation",
+    "OverrideSpecifier",
+    "UserDefinedTypeName",
+    "IdentifierPath",
+    "Mapping",
+    "TupleExpression",
+    "UnaryOperation",
+    "ForStatement",
+    "Block",
+    "EmitStatement",
+    "ExpressionStatement",
+    "VariableDeclarationStatement",
+    "IfStatement",
+    "WhileStatement",
+    "TryStatement",
+    "TryCatchClause",
+    "InlineAssembly",
+    "PlaceholderStatement",
+    "Return",
+    "UncheckedBlock",
+    "InheritanceSpecifier",
+    "ModifierInvocation",
+    "EnumValue",
+    "EnumDefinition",
+    "EventDefinition",
+    "FunctionDefinition",
+    "ModifierDefinition",
+    "ImportDirective",
+    "PragmaDirective",
+    "ContractDefinition",
+    "StructDefinition",
+    "UsingForDirective",
+    "SourceUnit"
+  ]
+}

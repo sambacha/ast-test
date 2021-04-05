@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowJs": true,
+    "checkJs": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": false
+  },
+  "include": ["scripts/*.js"],
+  "references": [{ "path": "./tsconfig.docs.json" }]
+}
