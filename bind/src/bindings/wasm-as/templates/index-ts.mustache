@@ -1,0 +1,36 @@
+{{#queryTypes}}
+{{#methods.length}}
+import {
+  {{#methods}}
+  Input_{{name}}{{^last}},{{/last}}
+  {{/methods}}
+} from "./{{type}}";
+{{/methods.length}}
+{{/queryTypes}}
+
+{{#queryTypes}}
+{{#methods.length}}
+export {
+  {{#methods}}
+  Input_{{name}}{{^last}},{{/last}}
+  {{/methods}}
+};
+{{/methods.length}}
+{{/queryTypes}}
+
+{{#objectTypes}}
+export * from "./{{type}}";
+{{/objectTypes}}
+{{#enumTypes}}
+export * from "./{{type}}";
+{{/enumTypes}}
+
+{{#importedQueryTypes}}
+export * from "./imported/{{type}}";
+{{/importedQueryTypes}}
+{{#importedObjectTypes}}
+export * from "./imported/{{type}}";
+{{/importedObjectTypes}}
+{{#importedEnumTypes}}
+export * from "./imported/{{type}}";
+{{/importedEnumTypes}}
