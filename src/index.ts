@@ -5,7 +5,7 @@
  * and run json-schema-to-typescript to regenerate this file.
  */
 
-export interface Gen {
+export interface SolidityAST {
   ElementaryTypeName: {
     Assignment: {
       [k: string]: unknown;
