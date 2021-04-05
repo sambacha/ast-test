@@ -8,6 +8,5 @@
     "strict": true,
     "noImplicitAny": false
   },
-  "include": ["scripts/*.js"],
-  "references": [{ "path": "./tsconfig.docs.json" }]
+  "include": ["src"]
 }
